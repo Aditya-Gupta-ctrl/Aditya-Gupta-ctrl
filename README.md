@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI and Machine learning Models<br>👯 I’m looking to collaborate on Github Project and Linkedin<br>🤝 I’m looking for help with AI Building<br>🌱 I’m currently learning AI engineer<br>💬 i'm a student VIT University and Intern at L&T<br>
+🔭 I’m currently working on AI and Machine learning Models<br>👯 I’m looking to collaborate on Github Project and Linkedin<br>🤝 I’m looking for help with AI Building<br>🌱 I’m currently learning AI engineer<br>💬 i'm a student VIT University<br>
 
 
 ## 🌐 Socials:
